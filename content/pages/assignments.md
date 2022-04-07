@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: de9dcf0c-3c8b-7d1b-9b94-b8ae7e29284f
 ---
@@ -20,35 +21,35 @@ Follow the following guidelines from the Harvard University Writing Center for y
 *   [Conclusions](http://www.fas.harvard.edu/~wricntr/documents/Conclusions.html)
 *   [Revising the Draft](http://www.fas.harvard.edu/~wricntr/documents/Revising.html)
 
-Assignment 1 ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_assn01))
+Assignment 1 ({{< resource_link b4628de5-0e6d-56f8-4b9a-10bc95177ecd "PDF" >}})
 -----------------------------------------------------------------------
 
 _This project is completed individually_  
 _Paper Due:_ Ses #2  
 _Length: 300-500 words_
 
-Assignment 2 ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_assn02))
+Assignment 2 ({{< resource_link 4906120e-e23b-9648-70b8-13ec4f7b65c8 "PDF" >}})
 -----------------------------------------------------------------------
 
 _This project is completed individually  
 __Paper Due:_ Ses #6  
 _Length: 300-500 words_
 
-Major Paper 1 ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_assn03))
+Major Paper 1 ({{< resource_link a14f7e9e-fb41-dccf-f0c8-46370caedbe5 "PDF" >}})
 ------------------------------------------------------------------------
 
 _This project is completed in groups of 2-3.  
 __Paper Due:_ 1 week after Ses #8  
 _Length: 1500-2000, ~6-8 double-spaced pages._
 
-Major Paper 2 ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_assn04))
+Major Paper 2 ({{< resource_link 8ed8d9ae-bd32-bb51-89cd-66abc0fb690b "PDF" >}})
 ------------------------------------------------------------------------
 
 _This project is completed individually  
 __Paper Due:_ 2 weeks after Ses #8  
 _Length: 1250-1750, ~5-7 double-spaced pages._
 
-Major Paper 3 ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_assn05))
+Major Paper 3 ({{< resource_link 48b5bdbf-78b1-cfbc-9f4d-19d4e6227d50 "PDF" >}})
 ------------------------------------------------------------------------
 
 _This project is completed individually.  

@@ -2,19 +2,20 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Study Materials
 uid: 89053586-e37c-6c58-64c3-faf247aa873a
 ---
 
-Study Guide for Aristotle's Rhetoric Book I-3 ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study01))
+Study Guide for Aristotle's Rhetoric Book I-3 ({{< resource_link c86a6ecd-ac69-a886-77b5-d3eb7119c623 "PDF" >}})
 
-Study Questions for Plato's Gorgias ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study02))
+Study Questions for Plato's Gorgias ({{< resource_link bb978d1b-9829-2d8a-5679-e98fb0825de7 "PDF" >}})
 
-Study Guide for De Inventione & Roe v Wade ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study03))
+Study Guide for De Inventione & Roe v Wade ({{< resource_link e3739897-eda0-a5ce-d4a5-f2b1f048550b "PDF" >}})
 
-Reading Notes for Cicero De Inventione & Roe v Wade ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study04))
+Reading Notes for Cicero De Inventione & Roe v Wade ({{< resource_link 5d7f8cd1-3024-f759-4121-4571cbbb6903 "PDF" >}})
 
-Background for Lincoln's Cooper Union Speech ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study05))
+Background for Lincoln's Cooper Union Speech ({{< resource_link 27dd6b1e-8312-c3d7-0808-0003fc02b1a1 "PDF" >}})
 
 LaGesse, David "[The 1952 Checkers Speech: The Dog Carries the Day for Richard Nixon](http://www.usnews.com/articles/news/politics/2008/01/17/the-dog-carries-the-day-for-nixon.html)." _U.S. News_, January 17, 2008.
 
@@ -56,9 +57,9 @@ Wilson, Joe. "Stand with Joe at JoeWilsonforCongress.com." September 10, 2009. Y
 Articles by Les Perelman on Classical and Medieval Rhetoric
 -----------------------------------------------------------
 
-Perelman, Les. The Two Rhetorics: Design and Interpretation in Engineering and Humanistic Discourse. ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study07))
+Perelman, Les. The Two Rhetorics: Design and Interpretation in Engineering and Humanistic Discourse. ({{< resource_link b3978ab3-9798-8f5b-a638-2a4541969b7a "PDF" >}})
 
-———. The Medieval Art of Letter Writing: Rhetoric as Institutional Expression. ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study08))
+———. The Medieval Art of Letter Writing: Rhetoric as Institutional Expression. ({{< resource_link 49ef110e-ab73-f6ee-30f2-b2779e204b9d "PDF" >}})
 
 Churchill Speeches
 ------------------
@@ -99,7 +100,7 @@ Inside Higher Ed. "[Fooling the College Board](http://www.insidehighered.com/new
 
 Perelman, Les. "New SAT: Write Long, Badly and Prosper." _Los Angeles Times_, May 29, 2005.
 
-———. SAT Writing Essays Strategies ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study12))
+———. SAT Writing Essays Strategies ({{< resource_link 9ebc215a-c677-5401-0fbb-7c7637e23619 "PDF" >}})
 
 Health Care
 -----------
@@ -152,4 +153,4 @@ National Forensic League. "[Past Lincoln-Douglas Debate Topics](http://www.newho
 
 National Forensic League. "[Past Policy Debate Topics](http://www.newhopesat.com/upage.aspx?pageid=u10)".
 
-Lincoln Douglas Debate Format ([PDF]({{< baseurl >}}/resources/mit21w_747_01f09_study13))
+Lincoln Douglas Debate Format ({{< resource_link d8c6282f-5699-5c43-6e55-30b57826d940 "PDF" >}})
