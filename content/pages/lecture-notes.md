@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides lecture presentations from the course along with
+  the schedule of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 51a96767-f3a5-e78f-dec6-bf981a6d4f6c
 ---
@@ -38,7 +39,7 @@ Class Introduction
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e99b2e03-58bb-5cf6-0fd5-f8d4ba3c32f6 "PDF" >}})
+({{% resource_link e99b2e03-58bb-5cf6-0fd5-f8d4ba3c32f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +51,7 @@ Class Introduction
 What is Rhetoric?
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 8e7397b9-e435-276d-59d0-17e5342b282b "PDF" >}})
+({{% resource_link 8e7397b9-e435-276d-59d0-17e5342b282b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +63,7 @@ What is Rhetoric?
 Overview of Classical Rhetoric & Aristotle's Rhetorical System
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 334ee317-d214-d87a-9c3c-817e9a802b61 "PDF" >}})
+({{% resource_link 334ee317-d214-d87a-9c3c-817e9a802b61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +75,7 @@ Overview of Classical Rhetoric & Aristotle's Rhetorical System
 Ethos, Pathos, and Logos in Action & Figures of Style I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e6bd8253-6ff3-310c-bc36-4c5feea5f4ce "PDF" >}})
+({{% resource_link e6bd8253-6ff3-310c-bc36-4c5feea5f4ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +87,7 @@ Ethos, Pathos, and Logos in Action & Figures of Style I
 Eulogies and Figures of Speech II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d263e22b-7dba-7be6-6e53-afb0835ee778 "PDF" >}})
+({{% resource_link d263e22b-7dba-7be6-6e53-afb0835ee778 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Eulogies and Figures of Speech II
 Plato's _Gorgias_ & Figures of Style II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 90aa5759-86dd-e662-3dde-3150b6cac78a "PDF" >}})
+({{% resource_link 90aa5759-86dd-e662-3dde-3150b6cac78a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +111,7 @@ Plato's _Gorgias_ & Figures of Style II
 Points at Issue
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3d38e385-d905-9e42-9ad4-a09b201bc874 "PDF" >}})
+({{% resource_link 3d38e385-d905-9e42-9ad4-a09b201bc874 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +123,7 @@ Points at Issue
 Figures of Style and Thought III
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d281bc43-9d08-5157-1166-e525db571324 "PDF" >}})
+({{% resource_link d281bc43-9d08-5157-1166-e525db571324 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,6 +133,6 @@ Figures of Style and Thought III
 Other Lectures
 --------------
 
-Effective Oral Presentations ({{< resource_link d8fa2d65-6045-e3dd-7efb-3a259cf5597a "PDF" >}})
+Effective Oral Presentations ({{% resource_link d8fa2d65-6045-e3dd-7efb-3a259cf5597a "PDF" %}})
 
-Lincoln/Douglas Debate ({{< resource_link ac7b4553-2307-afb1-2708-4f0d6d1de7aa "PDF" >}})
+Lincoln/Douglas Debate ({{% resource_link ac7b4553-2307-afb1-2708-4f0d6d1de7aa "PDF" %}})

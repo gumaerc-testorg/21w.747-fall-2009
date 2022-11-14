@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of textbooks used for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: f5c907f7-36e5-7028-200b-b81519a2efd0
 ---
