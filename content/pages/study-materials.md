@@ -24,7 +24,7 @@ LaGesse, David "[The 1952 Checkers Speech: The Dog Carries the Day for Richard N
 
 ## Examples About Speeches and Writing
 
-Basler, Roy P. "[Cooper Union Address](http://showcase.netins.net/web/creative/lincoln/speeches/cooper.htm)." February 27, 1860.
+Basler, Roy P. "Cooper Union Address." February 27, 1860.
 
 National Park Service, U.S. Department of the Interior. "[Second Debate: Freeport, Illinois](http://www.nps.gov/liho/historyculture/debate2.htm)".
 
@@ -143,9 +143,5 @@ Rushdie, Salman. "[Ugly Phrase Conceals an Uglier Truth](http://www.smh.com.au/n
 "International: Is *Torture* Ever Justified?; Terrorism and Civil Liberty." *The Economist* 384, no. 8547 (2007): 76.
 
 ## Classroom Lincoln Douglas Debates
-
-National Forensic League. "[Past Lincoln-Douglas Debate Topics](http://www.newhopesat.com/upage.aspx?pageid=u10)".
-
-National Forensic League. "[Past Policy Debate Topics](http://www.newhopesat.com/upage.aspx?pageid=u10)".
 
 Lincoln Douglas Debate Format ({{% resource_link "d8c6282f-5699-5c43-6e55-30b57826d940" "PDF" %}})
