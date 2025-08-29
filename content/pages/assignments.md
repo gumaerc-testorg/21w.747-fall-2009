@@ -20,10 +20,10 @@ Follow the following guidelines from the Harvard University Writing Center for y
 - [Counterargument](http://www.fas.harvard.edu/~wricntr/documents/Counterarg.html)
 - [Summary](http://www.fas.harvard.edu/~wricntr/documents/Summary.html)
 - [How to Write a Comparative Analysis](http://www.fas.harvard.edu/~wricntr/documents/CompAnalysis.html)
-- [Conclusions](http://www.fas.harvard.edu/~wricntr/documents/Conclusions.html)
-- [Revising the Draft](http://www.fas.harvard.edu/~wricntr/documents/Revising.html)
+- [Conclusions](https://writingcenter.fas.harvard.edu/conclusions)
+- [Revising the Draft](https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing)
 
-## Assignment 1 ({{% resource_link b4628de5-0e6d-56f8-4b9a-10bc95177ecd "PDF" %}})
+## Assignment 1 ({{% resource_link "b4628de5-0e6d-56f8-4b9a-10bc95177ecd" "PDF" %}})
 
 *This project is completed individually.* 
 
@@ -31,7 +31,7 @@ Paper Due: Ses #2 
 
 Length: 300-500 words
 
-## Assignment 2 ({{% resource_link 4906120e-e23b-9648-70b8-13ec4f7b65c8 "PDF" %}})
+## Assignment 2 ({{% resource_link "4906120e-e23b-9648-70b8-13ec4f7b65c8" "PDF" %}})
 
 *This project is completed individually.*
 
@@ -39,29 +39,29 @@ Paper Due: Ses #6 
 
 Length: 300-500 words
 
-## Major Paper 1 ({{% resource_link a14f7e9e-fb41-dccf-f0c8-46370caedbe5 "PDF" %}})
+## Major Paper 1 ({{% resource_link "a14f7e9e-fb41-dccf-f0c8-46370caedbe5" "PDF" %}})
 
-*This project is completed in groups of 2-3.* 
+*This project is completed in groups of 2-3.*
 
 Paper Due: 1 week after Ses #8 
 
 Length: 1500-2000, ~6-8 double-spaced pages.
 
-## Major Paper 2 ({{% resource_link 8ed8d9ae-bd32-bb51-89cd-66abc0fb690b "PDF" %}})
+## Major Paper 2 ({{% resource_link "8ed8d9ae-bd32-bb51-89cd-66abc0fb690b" "PDF" %}})
 
-*This project is completed individually.* 
+*This project is completed individually.*
 
 Paper Due: 2 weeks after Ses #8 
 
 Length: 1250-1750, ~5-7 double-spaced pages.
 
-## Major Paper 3 ({{% resource_link 48b5bdbf-78b1-cfbc-9f4d-19d4e6227d50 "PDF" %}})
+## Major Paper 3 ({{% resource_link "48b5bdbf-78b1-cfbc-9f4d-19d4e6227d50" "PDF" %}})
 
-*This project is completed individually.* 
+*This project is completed individually.*
 
-Proposal Due: 3 weeks after Ses #8   
-Paper Draft Due: 4 weeks after Ses #8   
-Oral Presentations: Ses #9-12   
+Proposal Due: 3 weeks after Ses #8    
+Paper Draft Due: 4 weeks after Ses #8    
+Oral Presentations: Ses #9-12    
 Final Draft: Ses #16 
 
 Length: 2000-2500 words. ~8-10 double spaced pages
@@ -86,7 +86,7 @@ At the end of term, teams of two of three students will debate four topics deter
 
 ## Portfolio and Portfolio Review
 
-*This project is completed individually.* 
+*This project is completed individually.*
 
 Due at your final conference Ses #22. 
 
